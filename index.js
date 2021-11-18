@@ -1,0 +1,32 @@
+x = document.querySelector("title");
+a = document.querySelector(".but1");
+b = document.querySelector(".but2");
+c = document.querySelector(".but3");
+d = document.querySelector(".but4");
+e = document.querySelector(".but5");
+f = document.querySelector(".but6");
+g = document.querySelector(".but7");
+h = document.querySelector(".but8");
+i = document.querySelector(".but9");
+j = document.querySelector(".but10");
+k = document.querySelector(".but11");
+l = document.querySelector(".but12");
+m = document.querySelector(".but13");
+n = document.querySelector(".but14");
+
+x.innerHTML="Villain";
+a.innerHTML="Mouchaak";
+b.innerHTML="Basona";
+c.innerHTML="Prem Tame 2021 Bengali 720p WEB-DL 900MB ESubs";
+d.innerHTML="Khelaa Ssuru 2021 S01 Bengali Complete Series 480p WEB-DL 950MB";
+e.innerHTML="Boyfriends and Girlfriends 2021 S01 Bengali Series 720p WEB-DL 850MB";
+f.innerHTML="Black Diamond (Nokol Heere) 2021 S01 Hoichoi Hindi & Bangla Series 720p HDRip 1.3GB";
+g.innerHTML="Subharambha 2021 S01 Bengali Hoichoi Complete Web Series 720p HDRip 640MB";
+h.innerHTML="Paap 2021 S02 Bengali Hoichoi Originals Web Series 720p Web-DL 1.1GB";
+i.innerHTML="Astey Ladies";
+j.innerHTML="Mohomaya";
+k.innerHTML="Indu";
+l.innerHTML="Rahasya Romancha Series: 1";
+m.innerHTML="Rahasya Romancha Series: 2";
+n.innerHTML="Rahasya Romancha Series: 3";
+

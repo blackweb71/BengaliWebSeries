@@ -1,0 +1,149 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #0e1538;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container a
+{
+    position: relative;
+    width: 260px;
+    height: 320px;
+    display: inline-block;
+    background: #fff;
+    margin: 20px;
+}
+.container #Rahasya3 span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/bL1Rpz982QI6qwNA4Nh99CQfK6P.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Rahasya2 span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/bL1Rpz982QI6qwNA4Nh99CQfK6P.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Rahasya1 span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/bL1Rpz982QI6qwNA4Nh99CQfK6P.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Indu span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/co1yml9iaZCRIL3pMi3kKPNTbdT.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Mohomaya span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/4fELKQDSfsmD8SI3fPXkMFqC0UA.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Astey span
+{
+    background-image: url(https://image.tmdb.org/t/p/w300/sgEiNCIjK5pzLbmtsE0JwYgGeto.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #mouchaak span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMTljZjg2NzctNmVmOS00ZWEzLThmNDctMmU5YmY2MmI4Mzg2XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #basona span
+{
+    background-image: url(https://imagetot.com/images/2021/10/03/678c51aa86b970dc8490d1806ba27298.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #premtame span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYzY1NjM4NzctNDE0NS00MDgwLWIxMjUtM2VhMWZjMmY0YWM1XkEyXkFqcGdeQXVyMTI3MjIwMzU2._V1_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #khelaassuru span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMGY0MjRjNTYtYmU4Ni00ZGNiLWJkNzAtMWVkMmZmODYxOTgxXkEyXkFqcGdeQXVyNzgzNDAzMTA@._V1_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #boyfriends span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMmFhMzY4ZTMtNjYwMC00MGY1LTk0YjEtZmI3ZjY3MTdhZTFjXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #blackdiamond span
+{
+    background-image: url(https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4a284c0046a49264387ac7bf857f9eaf93e08831ab5d3e69f0f3b936ba46db21._RI_V_TTW_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #subharambha span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYmMzMGExZWYtNDQ3MC00Y2U0LThlYmUtMzE0NjU4ZDE3NWM1XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #paap span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BN2NjNTg2ZjktMDlmZS00YTI2LWFiYzctNzZlODA1NTk0OTEzXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container a span
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0e1538;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 1.0em;
+    letter-spacing: 2px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #040a29;
+    overflow: hidden;
+}
